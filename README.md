@@ -1,3 +1,6 @@
+Current version: Not deployed however test version is at same domain name
+Test version: `63c2f49b`
+
 # FAQ
 ### What is LegacyWare?
 LegacyWare is the proposed name for a project aimed to provide software downloads for almost everything (and almost every version). Fed up with the latest designs and features no more!
