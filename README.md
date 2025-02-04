@@ -1,5 +1,4 @@
-Current version: Not deployed however test version is at same domain name
-Test version: `63c2f49b`
+Current version: Development pre-alpha preview (live)
 
 # FAQ
 ### What is LegacyWare?
